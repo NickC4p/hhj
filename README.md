@@ -99,3 +99,15 @@ All operations respect `--dry-run` unless `--apply` is specified.
 ## License
 
 MIT License — © 2025 HHJ Engine Authors.
+
+### How to install
+> if you don't have pyyaml or requests keep reading
+
+If you have installed python from **Homebrew** you will need these commands
+```bash
+ python3 -m venv path/to/venv
+    source path/to/venv/bin/activate
+```
+and then
+```bash
+pip install requests pyyaml
