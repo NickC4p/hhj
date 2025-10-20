@@ -1,0 +1,22 @@
+name: Keep Repository Alive
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Ogni 6 ore
+  workflow_dispatch:        # Puoi anche avviarla manualmente
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Keep alive
+        run: |
+          echo "Keeping the repository active — $(date)"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git clone https://github.com/${{ github.repository }} repo
+          cd repo
+          echo "Last ping at $(date)" > .keepalive
+          git add .keepalive
+          git commit -m "Keepalive ping $(date)" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
