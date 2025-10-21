@@ -1,5 +1,5 @@
 
-![HHJLogo](https://github.com/NickC4p/hhj/blob/main/Images/hhj-github-color.png)
+![HHJLogo](https://github.com/NickC4p/hhj/blob/main/Images/hhj-github-colour.png)
 
 # 🧩 HHJ Engine
 
