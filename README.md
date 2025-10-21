@@ -1,5 +1,8 @@
 # 🧩 HHJ Engine
 
+![HHJLogo](https://github.com/NickC4p/hhj/blob/main/Images/J.png)
+> hhj logo ©2025 NickC4p all rights reserved
+
 **HHJ Engine** (Hyper Handling Junction) is a Python-based declarative orchestration engine.  
 It reads `.hhj` YAML files and automates environment setup, Python and system dependency installation, file downloads, extraction, and workflow execution on macOS, Linux, and Windows.
 
