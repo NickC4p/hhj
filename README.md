@@ -2,7 +2,7 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/NickC4p/hhj.svg?sort=semver)](https://github.com/NickC4p/hhj/releases/latest)
 
-![HHJLogo](https://github.com/NickC4p/hhj/blob/main/Images/J.png)
+![HHJLogo](https://github.com/NickC4p/hhj/blob/main/Images/hhj-black.png)
 > hhj logo ©2025 NickC4p all rights reserved
 
 **HHJ Engine** (Hyper Handling Junction) is a Python-based declarative orchestration engine.  
