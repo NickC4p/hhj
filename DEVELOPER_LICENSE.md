@@ -1,0 +1,83 @@
+Developer Implementation-Only License (DIO) — Version 1.0
+Copyright (c) [year] [copyright owner]
+
+Permission is hereby granted, free of charge, to any person or organization ("Licensee") obtaining a copy
+of this software and associated documentation files (the "Original Work"), to use, copy, reproduce,
+modify, and prepare derivative works of the Original Work, subject to the following conditions:
+
+1. Definitions
+   - "Own Project" means a software project that is created, maintained, and controlled by the Licensee
+     (or by an entity that employs or otherwise controls the Licensee), and that functions as a distinct,
+     larger work or product (for example, an application, service, or combined software package)
+     in which the Original Work is incorporated or embedded.
+   - "Standalone Distribution" means distributing the Original Work by itself (as an independent file,
+     single-purpose package, library, plugin, module, or component) in a manner intended for reuse,
+     redistribution, or integration by third parties independent of the Licensee's Own Project.
+
+2. Grant of Rights (Implementation-Only)
+   - Subject to the terms below, the Copyright Holder grants the Licensee a worldwide, non-exclusive,
+     non-transferable, royalty-free license to:
+     a) copy, reproduce, modify, and create derivative works of the Original Work; and
+     b) distribute the Original Work and any modifications or derivatives,
+     provided that such distribution is only as part of an Own Project (i.e., the Original Work is
+     embedded in, compiled into, or distributed together with a larger software product under the
+     Licensee's control).
+   - The rights granted in this section expressly exclude any right to distribute the Original Work
+     or any derivative as a Standalone Distribution.
+
+3. Distribution Conditions
+   - When the Original Work (or a derivative that contains or is based on the Original Work) is distributed
+     as part of an Own Project, the Licensee must:
+     a) include a copy of this license text with the Own Project's distribution that contains the Original Work;
+     b) retain and reproduce all existing copyright, patent, trademark, and attribution notices that
+        appear in the Original Work; and
+     c) clearly identify which files or components in the Own Project are covered by this license.
+   - The Licensee may license the remainder of their Own Project under terms of their choosing, provided
+     the portions derived from or including the Original Work remain subject to this Developer
+     Implementation-Only License and are identified as such.
+
+4. Prohibited Uses
+   - Except as expressly permitted above, the Licensee may not:
+     a) distribute the Original Work (or any portion of it) as a standalone library, package, module,
+        plugin, or other component intended for reuse by third parties outside the context of the Own Project;
+     b) sublicense the Original Work as a separate, independent module; or
+     c) remove, obscure, or alter the attribution and license notices required by Section 3.
+   - Any attempt to exercise rights not granted by this license terminates the license granted to the
+     Licensee as of the date of that breach.
+
+5. Contribution Handling
+   - If the Licensee contributes modifications back to the Original Work's upstream project (if any),
+     such contributions are governed by the contributor agreement or license asked for by the upstream
+     project. The Licensee's grant to distribute as part of their Own Project does not impose any obligation
+     on the original copyright holder to accept contributions or change the Original Work's licensing.
+
+6. Disclaimer of Warranty
+   - THE ORIGINAL WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+     INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+     OR NON-INFRINGEMENT. THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE ORIGINAL WORK REMAINS WITH THE LICENSEE.
+
+7. Limitation of Liability
+   - IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+     INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+     PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+     HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+     (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE ORIGINAL WORK,
+     EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+8. Termination
+   - This license and the rights granted hereunder will terminate automatically if the Licensee fails to comply
+     with any of its terms. Termination does not limit any liability that accrued prior to termination. On termination,
+     the Licensee must cease distributing the Original Work except as permitted under Section 2 for previously distributed copies.
+
+9. Miscellaneous
+   - This license does not grant any patent rights beyond those expressly stated. Nothing in this license
+     limits a party's rights under applicable law or does anything to affect other agreements (for example,
+     employment agreements) that might govern ownership of code or contributions.
+   - If any provision of this license is found to be unenforceable, the remainder of the license remains in full force and effect.
+
+10. Interpretation and Legal Advice
+   - This is a template license provided for convenience. It is not legal advice. If you need a license tailored
+     to a specific situation, including commercial uses, contributions, or compatibility with other licenses,
+     consult a qualified attorney.
+
+End of Developer Implementation-Only License (DIO) — Version 1.0
