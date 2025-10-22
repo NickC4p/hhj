@@ -3,7 +3,7 @@
 # 🧩 HHJ Engine
 
 [![GitHub release](https://img.shields.io/github/v/release/NickC4p/hhj.svg?sort=semver)](https://github.com/NickC4p/hhj/releases/latest)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-DIO-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-yellow.svg)](https://www.python.org/)
 
 
