@@ -185,7 +185,3 @@ Acknowledgements
 ----------------
 - Built with pyyaml, requests, and packaged-in standard library modules.
 
-If you'd like, I can:
-- Create a PR that updates README.md with this content,
-- Add a CONTRIBUTING.md and a sample CI job,
-- Or tailor the README to be shorter (quickstart-only) or longer (full reference)
