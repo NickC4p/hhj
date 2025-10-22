@@ -6,6 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/license-DIO-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-yellow.svg)](https://www.python.org/)
 [![Library](https://img.shields.io/badge/Library-python_library-red.svg)](LIBRARY)
+[![Coming Soon](https://img.shields.io/badge/beta1-1.1-darkblue.svg)](COMING_SOON)
 
 
 > hhj logo ©2025 NickC4p — all rights reserved
