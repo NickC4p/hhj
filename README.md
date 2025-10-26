@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/license-DIO-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-yellow.svg)](https://www.python.org/)
 [![Library](https://img.shields.io/badge/Library-python_library-red.svg)](LIBRARY)
-[![Coming Soon](https://img.shields.io/badge/beta1-1.1-darkblue.svg)](COMING_SOON)
+[![Coming Soon](https://img.shields.io/badge/coming_soon-nothing-darkblue.svg)](COMING_SOON)
 
 
 > hhj logo ©2025 NickC4p — all rights reserved
@@ -71,6 +71,7 @@ workflow:
     retries: 2
   - run: "python main.py"
   - say: "Setup complete!"
+author: your_signature
 ```
 
 CLI Usage
@@ -186,4 +187,8 @@ Authors & Contact
 Acknowledgements
 ----------------
 - Built with pyyaml, requests, and packaged-in standard library modules.
+
+Author's signature
+------------------
+To get the autor's signature go to the following link where it will be explained how to get an author's signature and write your signature in the file 'developers/authors': https://github.com/NickC4p/hhj-for-developer 
 
