@@ -190,5 +190,5 @@ Acknowledgements
 
 Author's signature
 ------------------
-To get the autor's signature go to the following link where it will be explained how to get an author's signature and write your signature in the file 'developers/authors': https://github.com/NickC4p/hhj-for-developer 
+To get the autor's signature go to the following link where it will be explained how to get an author's signature and write your signature in the file 'developers/authors': https://github.com/NickC4p/hhj-for-developer-register
 
